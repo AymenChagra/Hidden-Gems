@@ -13,7 +13,7 @@
 3. [🔍 Key Features](#-key-features)  
 4. [🧪 Technology Stack](#-technology-stack)  
 5. [🎬 Demo](#-demo)  
-6. [👥 Team](#-team)  
+6. [👥 Dev Team](#-Dev-team)  
 
 ---
 
@@ -67,7 +67,7 @@ Whether you're a thrill-seeker, history lover, or weekend explorer, **Hidden Gem
 
 ---
 
-## 👥 Team
+## 👥 Dev Team
 
 This project was developed by:
 
