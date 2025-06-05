@@ -28,7 +28,7 @@ The goal of **Hidden Gems** is to bring together a community of explorers who wa
 Whether you're a thrill-seeker, history lover, or weekend explorer, **Hidden Gems** is tailored to help you uncover Tunisia’s secret spots. It offers AI-powered recommendations, user-generated content, and local event discovery — making travel planning both efficient and inspiring.
 
 <p align="center">
-  <img src="./6.png" alt="Hidden Gems Screenshot" width="700">
+  <img src="./Home-Page.png" alt="Hidden Gems Screenshot" width="700">
 </p>
 
 ---
