@@ -36,7 +36,7 @@ This project is developed by:
 - [Fakher Jemli](https://github.com/FakherJemli)
 
 
-### 🖼️ Screenshots
+### 🖼️ Home Page
 <p align="center">
   <img src="./1.png" alt="1" width="700">
 </p>
