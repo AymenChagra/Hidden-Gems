@@ -42,5 +42,4 @@ This project is developed by:
   <img src="./2.png" alt="2" width="400"/>
   <img src="./3.png" alt="3" width="400"/>
   <img src="./4.png" alt="4" width="400"/>
-  <img src="./5.png" alt="5" width="400"/>
 </p>
