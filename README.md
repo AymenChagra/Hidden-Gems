@@ -5,6 +5,9 @@
 ## ✨ Description
 
 Instead of relying on scattered online sources, Hidden Gems provides a centralized and easy-to-use platform where users can explore, review, and share hidden travel destinations in Tunisia. Whether you're an adventurer or a local explorer, this app ensures you don’t miss out on unique spots worth visiting.
+<p align="center">
+  <img src="./6.png" alt="1" width="700">
+</p>
 
 ## 🔍 Key Features
 
@@ -36,7 +39,4 @@ This project is developed by:
 - [Fakher Jemli](https://github.com/FakherJemli)
 
 
-### 🖼️ Home Page
-<p align="center">
-  <img src="./1.png" alt="1" width="700">
-</p>
+
