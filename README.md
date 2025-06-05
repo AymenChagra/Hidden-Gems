@@ -33,10 +33,14 @@ This project is developed by:
 - [Mohamed Aymen Chagra](https://github.com/AymenChagra)
 - [Rihab Tlili](https://github.com/RihabDev)
 - [Meryam Bejaoui](https://github.com/meryambej)
-- [Fakher Jemli](https://github.com/FakherJemli)### 🖼️ Screenshots
+- [Fakher Jemli](https://github.com/FakherJemli)
 
-![Interface 1](./1.png)  
-![Interface 2](./2.png)  
-![Interface 3](./3.png)  
-![Interface 4](./4.png)  
-![Interface 5](./5.png)
+
+### 🖼️ Screenshots
+<p align="center">
+  <img src="./1.png" alt="1" width="200"/>
+  <img src="./2.png" alt="2" width="200"/>
+  <img src="./3.png" alt="3" width="200"/>
+  <img src="./4.png" alt="4" width="200"/>
+  <img src="./5.png" alt="5" width="200"/>
+</p>
