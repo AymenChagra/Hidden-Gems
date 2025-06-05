@@ -1,4 +1,4 @@
-# 🌍 Hidden Gems
+# 💎 Hidden Gems 💎
 
 **Hidden Gems** is a web application designed to help users discover breathtaking, lesser-known destinations across Tunisia — all in one place.
 
