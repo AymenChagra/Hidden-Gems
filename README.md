@@ -38,8 +38,5 @@ This project is developed by:
 
 ### 🖼️ Screenshots
 <p align="center">
-  <img src="./1.png" alt="1" width="400" style="border:1px solid #ccc; margin:5px"/>
-  <img src="./2.png" alt="2" width="400" style="border:1px solid #ccc; margin:5px"/>
-  <img src="./3.png" alt="3" width="400" style="border:1px solid #ccc; margin:5px"/>
-  <img src="./4.png" alt="4" width="400" style="border:1px solid #ccc; margin:5px"/>
+  <img src="./1.png" alt="1" width="700">
 </p>
